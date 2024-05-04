@@ -33,9 +33,26 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 3. Write the secret password in your own version of this markdown file in your forked repo.
 
 **What is the secret password?**
-```
-Your answer here...
+Paper Rings
+10
+Meets
+and
+Lucky
+the
 
+```
+1. The very odd and inedible ingredient in a cake recipe
+Paper Rings
+2. The season number that contains only 18 episodes (Hint: How do you list them?)
+Season 10 of "Friends" has 18 episodes
+3. Fifth word of Season 6, Episode 21 of Friends
+Meets
+4. Fifth word of the fifth fictional Space Wars series
+and
+5. Second word of this song that's exactly 4 minutes long in this "colour" album
+Lucky
+6. The fourth word to the fourth Hunger Games movie
+the
 
 
 
